@@ -1,0 +1,17 @@
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\bin\Debug\Imaggg.exe.config
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\bin\Debug\Imaggg.exe
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\bin\Debug\Imaggg.pdb
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\bin\Debug\Imaggg.xml
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\Imaggg.vbproj.GenerateResource.Cache
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\Imaggg.exe
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\Imaggg.xml
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\Imaggg.pdb
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\WindowsApp1.SplashScreen1.resources
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\Imaggg.vbproj.CoreCompileInputs.cache
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\bin\Debug\Imaggg.exe.manifest
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\bin\Debug\Imaggg.application
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\Imaggg.TrustInfo.xml
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\Imaggg.exe.manifest
+C:\Users\famil\Documents\Visual Studio 2017\Projects\Imaggg\obj\Debug\Imaggg.application
